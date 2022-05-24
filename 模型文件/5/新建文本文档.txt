@@ -1,0 +1,3 @@
+Batch Size   8
+ALpha  0.25
+train numbers 100

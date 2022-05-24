@@ -1,0 +1,3 @@
+Batch Size   16
+ALpha  0.75
+train numbers 58
